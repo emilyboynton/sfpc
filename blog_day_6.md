@@ -22,6 +22,10 @@ Robby started class with a quick gluing paper demonstration and a walk-through o
 Robby also walked us through how to use the Cricut machine. Since so much of contemporary origami uses computer generated patterns, curved creases, and intricate, precise folds, a Cricut proves to be incredibly useful as it is able to lightly score whatever pattern you send it. That said, we also talked about the [types of software](https://github.com/robbykraft/SVG) and solutions we can use to bridge the gap between the math the crease pattern might demand and the capabilities of Illustrator (e.g. Illustrator can't produce accurate sine curves).
 
 
+![Robby Gluing Paper](images/robby_1.jpg) | 
+:-----------------------------: |
+Gluing Paper Demonstration
+
 #### Curved Creases
 
 Our class was _very_ excited to cover [curved creases](http://erikdemaine.org/curved/history/). Personally, I had already found myself drawn to a variety of curved crease structures and artists over course of Week 1. Some of my fascinations included, the movement and dynamism of Erik and Martin Demaine's [sculptures](http://erikdemaine.org/curved/FullerCraft/); David Huffman's [striking work](https://erikdemaine.org/papers/Huffman_Origami5/paper.pdf), where a few hyper-clean, curved folds can render paper surreal; the [figural works of Giang Dinh](https://giangdinh.com/portfolio/), which showcase narrative and emotion through the simple lines of curved creases and wet folding; and finally, the pleated, sweeping, and modular works of [Richard Sweeney](https://www.richardsweeney.co.uk/works). 
